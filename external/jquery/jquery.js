@@ -10251,7 +10251,10 @@ if ( xhrSupported ) {
 					// Do send the request
 					// This may raise an exception which is actually
 					// handled in jQuery.ajax (so no try/catch here)
+					try {
 					xhr.send( ( options.hasContent && options.data ) || null );
+					} catch( err ) {}
+
 
 					// Listener
 					callback = function( _, isAbort ) {
