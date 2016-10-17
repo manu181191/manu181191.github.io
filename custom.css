@@ -23,12 +23,11 @@
 }
 
 .red{
- border: solid 1px #ff0006;
  background-image: -webkit-linear-gradient(bottom, #d83236, #e36063);
  background-image: -moz-linear-gradient(bottom, #d83236, #e36063);
  background-image: -o-linear-gradient(bottom, #d83236, #e36063);
  background-image: -ms-linear-gradient(bottom, #d83236, #e36063);
- background-image: linear-gradient(to top, #d83236, #e36063);     
+ background-image: linear-gradient(to top, rgba(101, 154, 39, 0.33), #3b4c27);     
 }
 
 .app-title{
@@ -88,3 +87,4 @@ height:100%;
 .back {
 	transform: rotateY(180deg);
 }
+
