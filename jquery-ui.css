@@ -88,6 +88,7 @@
 
 /* Overlays */
 .ui-widget-overlay {
+background-image:linear-gradient(#CCA0A0,#ffffff)!important;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -987,8 +988,8 @@ a.ui-button:focus {
 a.ui-button:active,
 .ui-button:active,
 .ui-button.ui-state-active:hover {
-	border: 1px solid #003eff;
-	background: #007fff;
+	border: 1px solid #CCA0A0;
+	background: #CCA0A0;
 	font-family:"Trebuchet MS", sans-serif;
 	font-weight: bold;
 	font-size:25px;
