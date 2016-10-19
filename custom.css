@@ -17,6 +17,15 @@
 .white{
   border:1px solid #ddd;
 }
+.white1{
+  background-image:url(IMG-20160616-WA0014.jpg);
+}
+.white2{
+  background-image:url(IMG-20160510-WA0012.jpg);
+}
+.white3{
+  background-image:url(IMG-20160626-WA0001.jpg);
+}
 
 .white .app-title{
   color:#000;
@@ -79,6 +88,7 @@ height:100%;
 /* front pane, placed above back */
 .front {
 	z-index: 2;
+
 	/* for firefox 31 */
 	transform: rotateY(0deg);
 }
