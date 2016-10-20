@@ -24,23 +24,26 @@
   background-size: cover;
 }
 .white2{
-  background-image:url(IMG-20160510-WA0012.jpg);
+  background-image:url(Group.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: -215px 0px;
+  background-position: -27px 0px;
 }
 .white3{
-  background-image:url(IMG-20160626-WA0001.jpg);
+  background-image:url(DSCN1066-01.jpeg);
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: -120px 0px;
 }
 .white4{
   background-image:url(DSCN1672.JPG);
   background-size: cover;
 }
 .white5{
-  background-image:url(IMG_20140627_195051.jpg);
+  background-image:url(photo.jpg);
+  background-repeat: no-repeat;
   background-size: cover;
-  background-position: -150px 0px;
+  background-position: 0px 0px;
 }
 .white6{
   background-image:url(IMG_20150925_123028.jpg);
